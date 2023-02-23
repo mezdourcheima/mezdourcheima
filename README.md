@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 <a href="https://www.behance.net/cheimamezdour" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="" height="30" width="40" /></a>
 </p>
 <p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mezdourcheima&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mezdourcheima&theme=dark)
+
 </p>
