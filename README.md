@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@cheimamezdour" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meduim.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.behance.net/cheimamezdour" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="" height="30" width="40" /></a>
 </p>
-<p>
+
+### Github Streak 
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mezdourcheima&theme=dark)
 
-</p>
+
