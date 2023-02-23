@@ -14,14 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
-<h3 align="left">Connect with me: </h3>
-<p align="left">
-<a href="https://twitter.com/Cheima_Mezdour" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/cheima-mezdour-08240a1bb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://medium.com/@cheimamezdour" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meduim.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.behance.net/cheimamezdour" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="" height="30" width="40" /></a>
-</p>
 
 ### Github Streak 
 
@@ -32,3 +24,11 @@ Here are some ideas to get you started:
 ![Cheima's GitHub stats](https://github-readme-stats.vercel.app/api?username=mezdourcheima&show_icons=true&theme=transparent)
 
 
+### Connect with me 
+
+<p align="left">
+<a href="https://twitter.com/Cheima_Mezdour" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cheima-mezdour-08240a1bb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://medium.com/@cheimamezdour" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meduim.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.behance.net/cheimamezdour" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="" height="30" width="40" /></a>
+</p>
