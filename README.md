@@ -15,12 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: inline-block;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mezdourcheima&theme=dark">
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 1;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mezdourcheima&theme=dark">
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mezdourcheima&show_icons=true&theme=transparent">
+  </div>
 </div>
-<div style="display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mezdourcheima&show_icons=true&theme=transparent">
-</div>
+
 
 ### Most used languages
 
