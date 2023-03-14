@@ -15,19 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="left" style="display: flex; flex-direction: row;">
-  <div style="flex: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mezdourcheima&theme=dark">
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mezdourcheima&show_icons=true&theme=transparent">
-  </div>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mezdourcheima&show_icons=true&locale=en&layout=compact" alt="mezdourcheima" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mezdourcheima&show_icons=true&locale=en" alt="mezdourcheima" /></p>
 
-### Most used languages
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mezdourcheima&" alt="mezdourcheima" /></p>
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mezdourcheima)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me 
 
