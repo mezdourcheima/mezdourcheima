@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 
 ![Cheima's GitHub stats](https://github-readme-stats.vercel.app/api?username=mezdourcheima&show_icons=true&theme=transparent)
 
+### Most used languages
+
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mezdourcheima)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me 
 
