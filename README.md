@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; flex-direction: row;">
+<div align="left" style="display: flex; flex-direction: row;">
   <div style="flex: 1;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mezdourcheima&theme=dark">
   </div>
