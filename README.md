@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cheima</h1>
-<h3 align="center">A passionate frontend developer and Machine learning enthusiast</h3>
+<h3 align="center">A Machine learning enthusiast and a passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mezdourcheima&label=Profile%20views&color=0e75b6&style=flat" alt="mezdourcheima" /> </p>
 
