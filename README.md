@@ -2,7 +2,7 @@
 <h3 align="center" ><b>A Machine learning enthusiast and a passionate frontend developer</b></h3>
 
 # 💫 About Me:
- ### 🔥🚀 I’m currently working on a mobile app using Flutter <br><br>🌱 I’m currently learning React<br><br>📝 I regularly write articles on https://medium.com/@cheimamezdour<br><br>📫 How to reach me jc_mezdour@esi.dz<br>
+ ### 🔥🚀 I’m currently working on a machine learning project <br><br>🌱 I’m currently learning React<br><br>📝 I regularly write articles on https://medium.com/@cheimamezdour<br><br>📫 How to reach me jc_mezdour@esi.dz<br>
 
 
 ## 🌐 Socials:
