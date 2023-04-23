@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi 👋, I'm Cheima Mezdour </b></h1>
-<h3 align="center" ><b>A Machine learning enthusiast and a passionate frontend developer</b></h3>
+<h3 align="center" ><b>A Machine learning enthusiast </b></h3>
 
 # 💫 About Me:
  #### 🔥🚀 I’m currently working on a machine learning project <br><br>🌱 I’m currently learning React<br><br>📝 I regularly write articles on my Meduim account <br><br>📫 How to reach me jc_mezdour@esi.dz<br><br>🤝 Happy and pleased for any ML project collaborations <br>
