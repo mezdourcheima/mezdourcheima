@@ -1,5 +1,5 @@
-<h1 align="center"><b> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi👋+, I'm+Cheima+Mezdour;Welcome+to+my+profile)](https://git.io/typing-svg)
- </b></h1>
+<div align="center"><b> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi👋+, I'm+Cheima+Mezdour;Welcome+to+my+profile)](https://git.io/typing-svg)
+ </b></div>
 
 
 
