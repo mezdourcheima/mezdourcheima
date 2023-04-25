@@ -1,6 +1,7 @@
 <h1 align="center"><b>Hi 👋, I'm Cheima Mezdour </b></h1>
 <h3 align="center" ><b>A Machine learning enthusiast </b></h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello%2C+world%21;Welcome+to+my+profile.)](https://git.io/typing-svg)
 
 # 💫 About Me:
  #### 🔥🚀 I’m currently working on a machine learning project <br><br>🌱 I’m currently learning React<br><br>📝 I regularly write articles on my Meduim account <br><br>📫 How to reach me jc_mezdour@esi.dz<br><br>🤝 Happy and pleased for any ML project collaborations <br>
