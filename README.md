@@ -1,7 +1,6 @@
-<div style="display:flex;justify-content:center;align-items:center;">
-    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello%2C+world%21;Welcome+to+my+profile.)](https://git.io/typing-svg)
-</div>
-
+<h1 align="center"><b>Hi 👋, I'm Cheima Mezdour </b></h1>
+ <h3 align="center" ><b>A Machine learning enthusiast </b></h3>
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi 👋+, I'm+Cheima+Mezdour;Welcome+to+my+profile)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
