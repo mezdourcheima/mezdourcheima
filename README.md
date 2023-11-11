@@ -3,7 +3,7 @@
 <div align="center">
 
 # 💫 About Me:
- #### 🔥🚀 I’m currently working on a machine learning project <br><br>🌱 I’m currently learning more Deep learning concepts<br><br>📝 I regularly write articles on my Meduim account <br><br>📫 How to reach me jc_mezdour@esi.dz<br><br>🤝 Happy and pleased for any Machine Learning project collaborations <br>
+ #### 🔥🚀 I’m currently working on a Data Science project <br><br>🌱 I’m currently learning more Deep learning concepts<br><br>📫 How to reach me jc_mezdour@esi.dz<br><br>🤝 Happy and pleased for any Machine Learning project collaborations <br>
 
 
 ## 🌐 Socials:
