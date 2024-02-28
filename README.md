@@ -3,11 +3,11 @@
 <div align="center">
 
 # 💫 About Me:
- #### 🔥🚀 I’m currently working on a Data Science project <br><br>🌱 I’m currently learning more Deep learning concepts<br><br>📫 How to reach me jc_mezdour@esi.dz<br><br>🤝 Happy and pleased for any Machine Learning project collaborations <br>
+ #### 🔥🚀 I’m currently working on a Data Science project <br><br>📫 How to reach me jc_mezdour@esi.dz<br><br>🤝 Happy and pleased for any Machine Learning project collaborations <br>
 
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/cheimamezdour) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cheima-mezdour-08240a1bb/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@cheimamezdour) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cheima_mezdour) [![Zindi](https://img.shields.io/badge/Zindi-%23FFA500.svg?logo=zindi&logoColor=white)](https://zindi.africa/users/Cheima_M)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cheima-mezdour-08240a1bb/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@cheimamezdour) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cheima_mezdour) [![Zindi](https://img.shields.io/badge/Zindi-%23FFA500.svg?logo=zindi&logoColor=white)](https://zindi.africa/users/Cheima_M)
 
 
 
